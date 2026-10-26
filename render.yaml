@@ -1,1 +1,7 @@
+services:
+  - type: web
+    name: outlook-management-panel
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
 
